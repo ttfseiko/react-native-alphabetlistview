@@ -1,30 +1,94 @@
 {
-  "name": "react-native-alphabetlistview",
-  "version": "0.1.1",
-  "description": "A Listview with a sidebar to jump to sections directly, based on johanneslumpe's react-native-selectablesectionlistview",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/sunnylqm/react-native-alphabetlistview.git"
-  },
-  "author": "Johannes Lumpe <johannes@lum.pe> (https://github.com/johanneslumpe), sunnylqm <sunnylqm@qq.com> (https://github.com/sunnylqm), Kenton Jacobsen (https://github.com/brokentone)",
-  "license": "MIT",
-  "keywords": [
-    "react-component",
-    "react-native",
-    "ios",
-    "android"
+  "_args": [
+    [
+      "react-native-alphabetlistview",
+      "/Users/neal/bb360_ios/bb360"
+    ]
   ],
-  "devDependencies": {
-    "react-native": ">=0.13.2"
+  "_cnpm_publish_time": 1458527599084,
+  "_from": "react-native-alphabetlistview@*",
+  "_id": "react-native-alphabetlistview@0.1.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-alphabetlistview",
+  "_nodeVersion": "5.7.1",
+  "_npmOperationalInternal": {
+    "host": "packages-13-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-alphabetlistview-0.1.2.tgz_1458527598661_0.2690776891540736"
   },
-  "peerDependencies": {
-    "react-native": ">=0.13.2"
+  "_npmUser": {
+    "email": "sunnylqm@qq.com",
+    "name": "sunnylqm"
+  },
+  "_npmVersion": "3.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-alphabetlistview",
+    "raw": "react-native-alphabetlistview",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/react-native-alphabetlistview/download/react-native-alphabetlistview-0.1.2.tgz",
+  "_shasum": "66849eda29862f6c4021bb807fd7787e61226c13",
+  "_shrinkwrap": null,
+  "_spec": "react-native-alphabetlistview",
+  "_where": "/Users/neal/bb360_ios/bb360",
+  "author": {
+    "email": "johannes@lum.pe",
+    "name": "Johannes Lumpe",
+    "url": "https://github.com/johanneslumpe"
+  },
+  "bugs": {
+    "url": "https://github.com/sunnylqm/react-native-alphabetlistview/issues"
   },
   "dependencies": {
     "merge": "^1.2.0"
-  }
+  },
+  "description": "A Listview with a sidebar to jump to sections directly, based on johanneslumpe's react-native-selectablesectionlistview",
+  "devDependencies": {
+    "react-native": ">=0.13.2"
+  },
+  "directories": {},
+  "dist": {
+    "noattachment": false,
+    "shasum": "66849eda29862f6c4021bb807fd7787e61226c13",
+    "size": 12697,
+    "tarball": "http://registry.npm.taobao.org/react-native-alphabetlistview/download/react-native-alphabetlistview-0.1.2.tgz"
+  },
+  "gitHead": "06583419ad432c75bc2d1634aa68e87c6ef5a1d7",
+  "homepage": "https://github.com/sunnylqm/react-native-alphabetlistview#readme",
+  "keywords": [
+    "android",
+    "ios",
+    "react-component",
+    "react-native"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "sunnylqm",
+      "email": "sunnylqm@qq.com"
+    }
+  ],
+  "name": "react-native-alphabetlistview",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react-native": ">=0.13.2"
+  },
+  "publish_time": 1458527599084,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnylqm/react-native-alphabetlistview.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.2"
 }
